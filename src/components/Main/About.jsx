@@ -47,7 +47,7 @@ const About = () => (
           </li>
           <li>
             <p>
-              <span>Email:</span> estebancarrizo619@gmail.com
+              <span>Email:</span> contact.sadaiyappan@gmail.com
             </p>
           </li>
           <li>
